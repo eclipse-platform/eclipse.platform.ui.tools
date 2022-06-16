@@ -703,4 +703,10 @@ public class ContributionDataFile implements IFile {
 		// TODO Auto-generated method stub
 		return null;
 	}
+
+	@Override
+	public String getLineSeparator(boolean checkParent) throws CoreException {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
