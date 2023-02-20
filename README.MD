@@ -1,13 +1,5 @@
-eclipse.platform.ui.tools
-=========================
+Moved to https://github.com/eclipse-platform/eclipse.platform.ui
 
-Repository for the platform tools to develop Eclipse 4 RCP applications.
+The content of this repo has been moved to https://github.com/eclipse-platform/eclipse.platform.ui by merging both master branches together.
 
-How to build
-============
-
-Use the following command to build the components in this repository.
-
-```
-mvn clean verify -Pbuild-individual-bundles
-```
+This repository is therefore obsolete for any new developments, it is still available to document the developments which went into older releases via the maintenance branches.
